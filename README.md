@@ -1,4 +1,4 @@
-# -Instagram-Clone-Database-Analysis-SQL
+# Instagram-Clone-Database-Analysis-SQL
 ## Description:
 The Instagram Clone Project is a MySQL-based database that closely mimics the structure and functionality of the Instagram platform. This project serves as a foundation for performing data analysis to address real-world business questions and scenarios. By leveraging the cloned database, SQL queries, and data visualization, the project aims to uncover actionable insights that can drive strategic decisions for user engagement, campaign planning, and loyalty enhancement.
 
